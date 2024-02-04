@@ -520,3 +520,51 @@ margin-bottom: 10 px;
     display:grid;
     align-items: center;
 }
+
+@media screen  and (max-width:600px){
+    
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .header{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+       
+    }
+
+    .container{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .section2{
+        display: flex;
+        flex-direction: column;
+    }
+    .ul{
+        display: flex;
+    }
+
+    /* .michel {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    } */
+    .nataal{
+        display:flex;
+        flex-direction: column;  
+    }
+
+    .about1{
+        display: flex;
+        flex-direction: column;
+    }
+    .conteneurcircle{
+        display: flex;
+    }
+
+
+
+}
