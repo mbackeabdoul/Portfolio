@@ -207,8 +207,11 @@ h2 span{
 .image8{
     grid-column: 5/7;
 }
+.abdu{
+    margin-top: 10%;
+}
 .about .about1{
-    margin-top: 8%;
+    /* margin-top: 8%; */
     margin: 2rem 1rem;
     display: flex;
     gap: 50px; 
