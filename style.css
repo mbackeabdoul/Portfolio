@@ -547,14 +547,15 @@ margin-bottom: 10 px;
         display: flex;
     }
 
-    /* .michel {
+    .michel {
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-    } */
+    }
     .nataal{
-        display:flex;
-        flex-direction: column;  
+        display: flex;
+        flex-direction: column;
+        
     }
 
     .about .about1{
