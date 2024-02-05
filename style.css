@@ -557,14 +557,23 @@ margin-bottom: 10 px;
         flex-direction: column;  
     }
 
-    .about1{
+    .about .about1{
+        margin: 1.5rem ;
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 20px;
     }
     .conteneurcircle{
         display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
     }
-
+    .work{
+        display: flex;
+        gap: 25px;
+        flex-direction: column;
+        padding: 20px;
+    }
 
 
 }
